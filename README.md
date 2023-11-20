@@ -44,10 +44,5 @@ git clone https://github.com/Devvlos/LinkPlastic.git
 
 Once your pull request has been merged, you can delete your branch.
 
-## 📝 License
 
-This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
-
----
-
-Made with ❤️ by John Emerson :wave: [Get in touch](https://johnggli.github.io/linktree)
+Made with ❤️ by John Emerson :wave: [Get in touch](https://github.com/Devvlos/LinkPlastic.git)
