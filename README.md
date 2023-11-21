@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img alt="screenshot" src="screenshot.png">
+  <img alt="screenshot" src="Screenshot 2023-11-21 145804.png">
 </p>
 
 ---
