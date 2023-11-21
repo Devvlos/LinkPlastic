@@ -42,4 +42,4 @@ git clone https://github.com/Devvlos/LinkPlastic.git
 Once your pull request has been merged, you can delete your branch.
 
 
-Made By Devlos :wave: [Get in touch](https://adhishgupta.netlify.app/)
+Made By Devlos :wave: [Contact](https://adhishgupta.netlify.app/)
