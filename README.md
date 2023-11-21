@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img alt="screenshot" src="img/demo.png">
+  <img alt="screenshot" src="Img/demo.png">
 </p>
 
 ---
